@@ -19,5 +19,5 @@ variable "subnet_id_value"{
 
 variable "key_name_value"{
         description = "value of the key_pairs"
-        default = "kvm"
+        default = "abc"
 }
